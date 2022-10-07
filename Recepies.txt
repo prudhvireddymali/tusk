@@ -3,6 +3,7 @@ chicken
 keer
 fish
 mutton
-
+beans
+piza
 
 thank q
